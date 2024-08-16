@@ -9,6 +9,7 @@ This project simulates aspects of the visual cortex using Convolutional Neural N
 - Analysis of neuron activations to find the most excitable neurons
 - Visualization of receptive fields and exciting patterns for top neurons
 
+![Visual Cortex Simulation](images/image.png)
   ## Installation
 
 ```bash
